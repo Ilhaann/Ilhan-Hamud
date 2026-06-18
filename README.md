@@ -4,11 +4,11 @@
 
 # Hi there, I'm Ilhan Hamud 👋
 
-I am an Informatics and Computer Science student at Strathmore University with a passion for building lively, interactive, and responsive web applications. I enjoy tackling a diverse range of technical challenges—from optimizing geospatial databases to exploring low-level computer architecture.
+I am an Informatics and Computer Science student at Strathmore University with a passion for building lively, interactive and responsive web applications. I enjoy tackling a diverse range of technical challenges—from optimizing geospatial databases to exploring low-level computer architecture.
 
 - 🔭 **Current Focus:** Developing the "MzaziCare Care Services Discovery and Catalog System".
-- 🌱 **Learning & Exploration:** Deepening my expertise in PostGIS, geospatial queries, and robust full-stack ecosystems using React, Node.js, and Supabase.
-- ⚡ **Core Interests:** Full-Stack Web Development, Geospatial Database Optimization, and Systems Architecture.
+- 🌱 **Learning & Exploration:** Deepening my expertise in PostGIS, geospatial queries and robust full-stack ecosystems using React, Node.js and Supabase.
+- ⚡ **Core Interests:** Full-Stack Web Development, Geospatial Database Optimization and Systems Architecture.
 
 ---
 
